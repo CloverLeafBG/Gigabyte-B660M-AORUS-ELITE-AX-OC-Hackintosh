@@ -26,8 +26,7 @@ OpenCore based EFI for Gigabyte B660M Aorus Elite AX
 - GPU: Gigabyte RX570 4GB
 - SSD: WD SN770 1TB
 - LAN: Realtek® 2.5GbE
-- Wi-Fi/BT: Intel® Wi-Fi 6E AX211
-
+- Wi-Fi: Intel® Wi-Fi 6E AX211 / Bluetooth: 5.3
 
 ### BIOS Version
 
