@@ -30,7 +30,7 @@ OpenCore based EFI for Gigabyte B660M Aorus Elite AX
 
 ### BIOS Version
 
-F27
+F28b
 
  
 ### Bootloader
