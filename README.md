@@ -21,7 +21,7 @@ OpenCore based EFI for Gigabyte B660M Aorus Elite AX
 - Motherboard:  Gigabyte B660M Aorus Elite AX DDR4 
 - CPU: Intel i3 12100F 
 - Socket: LGA1700
-- RAM: 2x8GB DDR4 @ 3200 Mhz
+- RAM: 2x16GB DDR4 @ 3200 Mhz
 - Audio: Realtek ALC897
 - GPU: Gigabyte RX570 4GB
 - SSD: WD SN770 1TB
